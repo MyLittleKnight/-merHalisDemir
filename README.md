@@ -1,2 +1,2 @@
 # Ömer-halis-demir
-Bu web page halk kahramınımız şehit ömer halis demir adına açılmıştır.
+Bu web sitesi halk kahramınımız şehit ömer halis demir adına yapılmıştır. Yazılım adına yapmış olduğum ilk çalışmadır.
